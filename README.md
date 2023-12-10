@@ -26,3 +26,7 @@ The inspiration for this project comes from a personal need to manage a collecti
 - **  **:
 
 - **  **:
+
+## Next Steps 
+
+- ** Add a transcribing feature to simplify sheet music into letter and number notation for the kalimba. **
