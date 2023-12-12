@@ -9,24 +9,20 @@ Glenda Utsler's final project for COGS 18, University of California San Diego (U
 
 ## About this Project
 
-The goal of this project is to implement C.R.U.D. operations (Create, Read, Update, Delete) using Python and Jupyter Notebook. The data that this project focuses on are of musical scores for the Kalimba; a handheld percussion instrument originating from Zimbabwe.
+The goal of this project is to implement C.R.U.D. operations (Create, Read, Update, Delete) using Python and Jupyter Notebook. The data that this project focuses on are of musical scores. It will be adapted after submission for other key tabs-- specifically, for the Kalimba; a handheld percussion instrument originating from Zimbabwe.
 
-The inspiration for this project comes from a personal need to manage a collection of music charts. The needs that this project addresses are as follows:
- 
-- ** Curate a list of unique musical scores **:
+The inspiration for this project comes from a personal need for managing a collection of music charts. The needs that this project addresses are as follows:
+- Tests with Imported Music Database Collection
+- Create, Read, Update, Delete music_list Features
+- Sort Feature (General Queries)
+- Song Randomizer
+- Ability to Delete All Info (to start over with an empty database)
+- CRUD.py, SongRandomizerClass.py
 
-- ** Recording a relative 'Difficulty Level' attribute **:
+### How to Run the Project
 
-- ** Finding specific scores in the list **:
+The project requires pandas and pytest. 
 
-## How to Run the Project
+### Next Steps 
 
-- **  **:
-
-- **  **:
-
-- **  **:
-
-## Next Steps 
-
-- ** Add a transcribing feature to simplify sheet music into letter and number notation for the kalimba. **
+- Add a transcribing feature to simplify sheet music into letter and number notation for the kalimba.
